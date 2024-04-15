@@ -1,3 +1,2 @@
-apt-get update
-git
-git-lfs
+apt install git git-lfs
+git lfs install
